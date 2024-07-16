@@ -2,6 +2,6 @@
 Ini adalah project dari kelas python pro saya
 ## Bahan
 Html dan css sebagai Front end dan python dan js sebagai back end
-## Library
+## Library(Pra-requisite)
 1. Flask
 2. jinja2
